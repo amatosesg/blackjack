@@ -1,0 +1,21 @@
+html, body{
+    margin: 0;
+    background-color: #2f4f30 !important;
+    color: white !important;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+.card-game{
+    position: relative;
+    width: 150px;
+    left: 90px;
+    margin-left: -75px;
+}
+#player-cards, #computer-cards{
+    height: 240px;
+}
