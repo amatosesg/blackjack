@@ -1,5 +1,7 @@
 # Blackjack Banking Game
 
+First project version without await/async.
+
 .................................. TODO ..................................
 
 
